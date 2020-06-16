@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/tum_notlari_sil"
+        android:icon="@drawable/tumsil"
+        android:title="@string/sil_tum_item"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/hak"
+        android:icon="@drawable/hakkimda"
+        android:title="@string/hakkimda_item"
+        app:showAsAction="always" />
+
+</menu>

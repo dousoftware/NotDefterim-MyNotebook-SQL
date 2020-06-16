@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Not Defterim</string>
+    <string name="sil_tum_item">Tüm Notları Sil</string>
+    <string name="hakkimda_item">Hakkımda</string>
+    <string name="alert_dialog_baslik">Dikkat</string>
+    <string name="alert_dialog_gosterilecek_mesaj">Tüm Notları Silmek İstediğinize Emin Misiniz?</string>
+    <string name="olumlu_cevap">Evet</string>
+    <string name="olumsuz_cevap">Hayır</string>
+    <string name="not_duzenle_sayfa_adi">Yeni Not Oluştur</string>
+    <string name="hintBaslik">Başlık</string>
+    <string name="hintNot">Notunuzu Buraya Yazınız :)</string>
+    <string name="kaydet_item">Kaydet</string>
+    <string name="sil_item">Si</string>
+    <string name="baslik_uyari">Başlık Eklemediniz</string>
+    <string name="gelistirici">Geliştirici: Dou Software</string>
+    <string name="ceviri">Fransızca Çeviri: B.Ç</string>
+    <string name="siteme_git_button">Geliştiricinin Web Sitesine</string>
+    <string name="linkegit">Git</string>
+</resources>

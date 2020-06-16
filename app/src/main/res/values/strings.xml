@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Notebook</string>
+    <string name="sil_tum_item">Delete All Notes</string>
+
+    <string name="alert_dialog_baslik">Attention</string>
+    <string name="alert_dialog_gosterilecek_mesaj">Are You Sure You Want To Delete All Notes?</string>
+    <string name="olumlu_cevap">Yes</string>
+    <string name="olumsuz_cevap">No</string>
+
+    <string name="not_duzenle_sayfa_adi">Create A Note</string>
+    <string name="hintBaslik">Tittle</string>
+    <string name="hintNot">Enter your note here :)</string>
+    <string name="kaydet_item">Save</string>
+    <string name="sil_item">Delete</string>
+    <string name="baslik_uyari">You did not add a title</string>
+
+    <string name="gelistirici">Developer: Dou Software</string>
+    <string name="ceviri">French Translation: B.Ç</string>
+    <string name="hakkimda_item">About Me</string>
+    <string name="siteme_git_button">Developer Website</string>
+    <string name="linkegit">Go</string>
+
+
+</resources>

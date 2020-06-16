@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Mon Bloc Notes "</string>
+    <string name="sil_tum_item">"Supprimer toutes les notes "</string>
+    <string name="alert_dialog_baslik">"Attention "</string>
+    <string name="alert_dialog_gosterilecek_mesaj">"Supprimer Toutes Les Notes? "</string>
+    <string name="olumlu_cevap">"Oui "</string>
+    <string name="olumsuz_cevap">"Non "</string>
+    <string name="not_duzenle_sayfa_adi">"Créer Une Note "</string>
+    <string name="hintBaslik">"Titre "</string>
+    <string name="hintNot">Ecrivez Votre Note :)</string>
+    <string name="kaydet_item">"Enregistrer "</string>
+    <string name="sil_item">Supprimer</string>
+    <string name="baslik_uyari">"Vous n'avez pas ajouté un titre. "</string>
+    <string name="gelistirici">Développeur: Dou Software</string>
+    <string name="ceviri">Traduction En Français: B.Ç</string>
+    <string name="hakkimda_item">"À Propos  "</string>
+    <string name="siteme_git_button">Accédez à la page web du développeur</string>
+    <string name="linkegit">Go</string>
+</resources>

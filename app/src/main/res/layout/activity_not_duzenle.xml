@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".NotDuzenle">
+
+    <EditText
+        android:id="@+id/baslik_text"
+        style="@style/FullWidthEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hintBaslik"
+        android:inputType="textMultiLine|textCapWords"
+        android:paddingTop="20dp"
+        android:textSize="25dp" />
+
+    <EditText
+        android:id="@+id/not_text"
+        style="@style/FullWidthEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hintNot"
+        android:inputType="textMultiLine|textCapWords"
+        android:paddingTop="15dp" />
+</LinearLayout>
